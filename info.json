@@ -1,1 +1,13 @@
+{
+  "name": "RustDesk Monitor",
+  "author": "Draganis",
+  "description": "Monitor RustDesk clients in Home Assistant via your own relay server.",
+  "version": "1.0.0",
+  "iot_class": "local_polling",
+  "dependencies": [],
+  "codeowners": ["@Draganis"],
+  "documentation": "https://github.com/Draganis/rustdesk-monitor",
+  "domain": "rustdesk_monitor",
+  "requirements": []
+}
 
