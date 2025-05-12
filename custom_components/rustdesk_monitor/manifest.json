@@ -1,0 +1,10 @@
+{
+  "domain": "rustdesk_monitor",
+  "name": "RustDesk Monitor",
+  "version": "1.0.0",
+  "documentation": "https://github.com/Draganis/rustdesk-monitor",
+  "requirements": [],
+  "codeowners": ["@Draganis"],
+  "config_flow": true,
+  "iot_class": "local_polling"
+}

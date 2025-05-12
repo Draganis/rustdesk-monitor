@@ -16,8 +16,10 @@ This custom integration lets you monitor the online status of RustDesk clients u
 
 Go to **HACS > Integrations > Custom Repositories**  
 Add:
-https://github.com/Draganis/rustdesk-monitor
 
+```
+https://github.com/Draganis/rustdesk-monitor
+```
 
 Category: **Integration**
 
